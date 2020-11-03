@@ -1,5 +1,7 @@
 {
   "name": "react-portfolio",
+  "author": "Jared Huffstutler",
+  "description": "My updated portfolio made with React, Node, ExpressJS, MongoDB, and Mongoose.",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
